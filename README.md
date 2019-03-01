@@ -1,7 +1,7 @@
 # Computer-architeure-CUDA-comparison with CPU
-
 (GPU Benchmarking using CUDA framework (Nvidia) project)
 
+//***NOTE: Refer report attached for project details ***//
 STEPS TO RUN CODE:
 Compilation: (for Windows)
 1. Run the "GPU_benchmark.cu" file using nvcc(Nvidia CUDA compiler) compiler.
